@@ -1,0 +1,144 @@
+@charset "UTF-8";
+body {
+	padding-top: 0px; 
+	padding-left: 0px; 
+	padding-right: 0px; 
+	padding-bottom: 0px; 
+	background-color:#729fcf;
+    /*width : 100%;*/
+}
+#bottone-apri-tavolo {
+	position: absolute;
+	width : 12em;
+	height : 4em;
+	top : 30%;
+	left :40%;
+	background-color:#f57900;
+}
+#bottone-chiudi {
+	position: absolute;
+	width : 12em;
+	height : 2.7em;
+	top : 0%;
+	left : 10%;
+	background-color:#f57900;
+	
+}
+#bottone-aggiungi {
+	position: absolute;
+	width : 12em;
+	height : 2.7em;
+	top : 0%;
+	left : 60%;
+	background-color:#f57900;
+	
+}
+.aggiungi-avanti {
+	position: absolute;
+	width : 12em;
+	height : 2.7em;
+	top : 65%;
+	left : 0%;
+	background-color:#f57900;
+	
+}
+#tabella {
+	width:100%;
+	height:auto;
+	 
+}
+.riga-titolo {
+	border: 1px solid black;
+	height : 0.5em;
+}
+.riga {
+	border: 1px solid black;
+	height : 1.5em;
+}
+#riga-finale {
+	height : 2.9em;
+}
+#schermata_doppia {
+	position: absolute;
+	top : 20%;
+	left :10%;
+	width : 90%;
+	height : 80%;	
+}
+#schermata-prima {
+	position: absolute;
+	top : 10%;
+	left :0%;
+	height : 80%;
+	width : 45%;
+	 overflow: Auto;
+	 scrollbar-base-color: #000000;
+    scrollbar-arrow-color: #CCCCCC;
+    scrollbar-track-color: #CCCCCC;
+	background-color:#edd400;
+}
+#schermata-seconda {
+	position: absolute;
+	top : 10%;
+	left : 50%;
+	height : 80%;
+	width : 45%;
+	background-color:#edd400;
+}
+#bottone-indietro {
+	position: absolute;
+	width : 12em;
+	height : 3.5em;
+	top : 90%;
+	left :40%;
+	background-color:#f57900;
+	
+}
+#bottone-indietro2 {
+	position: absolute;
+	width : 12em;
+	height : 2.7em;
+	top : 92%;
+	left :46%;
+	background-color:#f57900;
+	
+}
+#schermata-unica {
+	position: absolute;
+	top : 20%;
+	left :10%;
+	width : 80%;
+	height : 70%;
+	background-color:#edd400;
+	
+}
+#container {
+	position: relative;
+	background-color:#8ae234;
+	width : 99%;
+	height : 39em;
+	border-style:solid;
+	 border-color:#729fcf; 
+	 border-width:0.5em;
+	 padding-left: 0px;
+padding-right: 0px;
+}
+.tavolo {
+	position: absolute;
+	width : 8em;
+	height : 4em;
+	background-color:#edd400;
+	
+}
+#titolo {
+	background-color:#f57900;
+	border-radius: 20px 20px 20px 20px;
+	height : auto;
+	left : 20%;
+	right : 20%;
+	top : 6%;
+	
+}
+#vuoto {
+	height : 3.5em;
+}
