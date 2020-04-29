@@ -10,14 +10,7 @@
 - nodejs
 - Bootstrap
 - Eclipse web
-- Mysql
+- Mysql<br>
+  
   Per maggiori info visita la sezione del mio sito riguadante questo progetto : 
   <a href = "https://mypersonalsiteit.000webhostapp.com/progetto3.html#corpo">https://mypersonalsiteit.000webhostapp.com/progetto3.html#corpo</a>
-    
-    
-    
-    
-   
-    
-
-PER MAGGIORI INFO 
